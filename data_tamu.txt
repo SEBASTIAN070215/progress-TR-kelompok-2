@@ -1,0 +1,9 @@
+uama: rusdi | Kamar: VIP | Check-in: 17-11-2025 | Check-out: 20-11-2025 | Total: 2400000
+Nama: yudit | Kamar: VIP | Check-in: 22-11-2025 | Check-out: 21-11-2025 | Total: 2550000
+Nama: yudit | Kamar: Standard | Check-in: 22-11-2025 | Check-out: 24-11-2025 | Total: 550000
+Nama:yudit | Kamar:Standard | In:22-11-2025 | Out:25-11-2025 | OutAktual:24-11-2025 | Metode:Transfer | Total:100000
+Nama:yudit | Kamar:Standard | In:22-11-2025 | Out:24-11-2025 | OutAktual:25-11-2025 | Metode:Tunai | Total:1310000
+Nama:yudit ganteng | Kamar:Standard | In:24-11-2025 | Out:27-11-2025 | OutAktual:26-11-2025 | Metode:Tunai | Total:100000
+Nama:yudit ganteng  | Kamar:VIP | In:30-11-2025 20:15 | Out:3-12-2025 | OutAktual:3-12-2025 | Metode:Kartu Kredit | Total:2550000
+Nama:yudit | Kamar:Standard | In:27-11-2025 23:20 | Out:29-11-2025 | OutAktual:28-11-2025 | Metode:Kartu Kredit | Total:50000
+Nama:yudit tampan sekali  | Kamar:Standard | In:28-11-2025 22:20 | Out:30-11-2025 | OutAktual:30-11-2025 | Metode:Tunai | Total:700000
